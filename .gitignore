@@ -1,0 +1,17 @@
+*
+!*/
+
+mylib
+InductionHeating
+xlib
+
+!*.md
+!.gitignore
+!.gitattributes
+
+!*.kicad_mod
+!*.STEP
+!*.STP
+!*.step
+!*.kicad_sym
+!*.kicad_wks
